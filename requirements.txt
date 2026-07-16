@@ -1,0 +1,6 @@
+customtkinter
+Pillow
+PyMuPDF
+python-vlc
+edge-tts
+pygame
