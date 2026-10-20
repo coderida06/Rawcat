@@ -1,4 +1,4 @@
-# 🚀 Rawcat
+#  Rawcat
 
 I've tried a lot of study apps, but I've never had one that felt like *my* study app. Most of them spend half your time making you organize subjects, pick colors, create notebooks, and set up things before you can actually start studying.
 
@@ -10,15 +10,15 @@ This is just **Version 1**, and I plan on continuously improving it by adding fe
 
 ## Current Features
 
-### 📅 Calendar + To-Do List
+###  Calendar + To-Do List
 A simple monthly calendar where you can add and manage tasks for specific dates.
 
-### 🍅 Pomodoro Timer
+###  Pomodoro Timer
 A focus and break timer to help you stay locked in.
 
 *(The alarm is not very pleasant right now... I'm working on making it much less aggressive. Please bear with me 😅.)*
 
-### 🎧 PDF to Audiobook
+###  PDF to Audiobook
 The feature I built Rawcat around.
 
 Upload your PDFs and let Rawcat read them aloud while you follow along or take a break from staring at the screen.
